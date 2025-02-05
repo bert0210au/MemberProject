@@ -11,20 +11,20 @@ body {
 	width:50%;
 	background-color:#63D2FF;
 	height:150px;
-	margin: 0 auto; /* 居中对齐 */
+	margin: 0 auto; /* 置中對齊 */
 	color:black;
 }
 .content{
 	width:50%;
 	background-color:#FFD885;
 	height:400px;
-	margin: 0 auto; /* 居中对齐 */
+	margin: 0 auto; /* 置中對齊 */
 	color:black;
 }
 .footer{
 	width:50%;
 	background-color:#DD4048;
 	height:100px;
-	margin: 0 auto; /* 居中对齐 */
+	margin: 0 auto; /* 置中對齊 */
 	color:black;
 }
